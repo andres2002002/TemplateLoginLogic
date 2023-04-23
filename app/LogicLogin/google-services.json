@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "690735199267",
+    "firebase_url": "https://logintest-a1bf7-default-rtdb.firebaseio.com",
+    "project_id": "logintest-a1bf7",
+    "storage_bucket": "logintest-a1bf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690735199267:android:ec10bbb3aac497416f2d96",
+        "android_client_info": {
+          "package_name": "com.akaigames.loginakari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690735199267-2c2kdlklnttp3irgj415u73f5jbav94h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akaigames.loginakari",
+            "certificate_hash": "8c0b1f76620f67acca3576486a1656a2d692863b"
+          }
+        },
+        {
+          "client_id": "690735199267-e81c4r5u3imkujusqu78eakj1ooeou00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQp87ioy2uiu4dx2apNmZTfoZeo5lxO-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690735199267-e81c4r5u3imkujusqu78eakj1ooeou00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690735199267:android:6422e8249d54379d6f2d96",
+        "android_client_info": {
+          "package_name": "com.akaigames.templateappwithlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690735199267-kokcs0hm5qndtv9i0iopl8m8r37eiti0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akaigames.templateappwithlogin",
+            "certificate_hash": "8c0b1f76620f67acca3576486a1656a2d692863b"
+          }
+        },
+        {
+          "client_id": "690735199267-e81c4r5u3imkujusqu78eakj1ooeou00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQp87ioy2uiu4dx2apNmZTfoZeo5lxO-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690735199267-e81c4r5u3imkujusqu78eakj1ooeou00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690735199267:android:b81097a583d478036f2d96",
+        "android_client_info": {
+          "package_name": "com.akaigms.logiclogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690735199267-l48lk0btf6q117l94j1un55pijt5329i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akaigms.logiclogin",
+            "certificate_hash": "8c0b1f76620f67acca3576486a1656a2d692863b"
+          }
+        },
+        {
+          "client_id": "690735199267-e81c4r5u3imkujusqu78eakj1ooeou00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQp87ioy2uiu4dx2apNmZTfoZeo5lxO-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690735199267-e81c4r5u3imkujusqu78eakj1ooeou00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
