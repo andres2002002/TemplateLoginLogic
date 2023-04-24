@@ -60,6 +60,9 @@ class DataBaseVM(private val userData: UserDataVM):ViewModel(){
             userData.loginType()
         }
     }
+    fun hola(){
+
+    }
 
     fun deleteDB() {
         db.collection("Users").document(_email.value!!).delete()
